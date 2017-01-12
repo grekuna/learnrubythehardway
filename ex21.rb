@@ -32,3 +32,12 @@ puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ #{iq}"
 what = add(age, substract(height, multiply(weight, divide(iq, 2))))
 
 puts "That becomes: #{what}. Can you do it by hand?"
+
+def myownfunction(a, b)
+  x = add(a, b)
+  y = substract(a, b)
+  puts "the new value is #{x+y}"
+  return x + y
+end
+
+myownfunction(2,3)
