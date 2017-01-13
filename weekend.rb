@@ -17,3 +17,11 @@
 
 
 #run the method with the two arrays defined at the beginning
+
+
+
+
+#create an empty array. fill it with a while loop with numbers 1
+#through 5, print out the array. 
+
+#explain in words what an array and what a block is.
